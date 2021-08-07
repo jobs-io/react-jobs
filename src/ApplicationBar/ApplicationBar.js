@@ -18,7 +18,7 @@ const useStyles = makeStyles((theme) => ({
   },
 }));
 
-export default function Menu() {
+export default function ApplicationBar() {
     const classes = useStyles();
 
     return (
